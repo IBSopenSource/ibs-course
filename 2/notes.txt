@@ -1,0 +1,4 @@
+>> to create a new directory 
+    -mkdir <path(either relative or absolute)>
+>> to clone a repo from github 
+    -git clone <url copied from github>
